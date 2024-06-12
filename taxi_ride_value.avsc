@@ -1,0 +1,23 @@
+{
+  "namespace": "com.bagas.taxi",
+  "type": "record",
+  "name": "TaxiRide",
+  "fields": [
+    {
+      "name": "Open",
+      "type": "float"
+    },
+    {
+      "name": "High",
+      "type": "float"
+    },
+    {
+      "name": "Low",
+      "type": "float"
+    },
+    {
+      "name": "Close",
+      "type": "float"
+    }
+  ]
+}

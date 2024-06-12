@@ -1,0 +1,11 @@
+{
+  "namespace": "com.bagas.taxi",
+  "type": "record",
+  "name": "TaxiRideKey",
+  "fields": [
+    {
+      "name": "Open",
+      "type": "float"
+    }
+  ]
+}
